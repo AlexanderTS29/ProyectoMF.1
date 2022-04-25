@@ -1,0 +1,13 @@
+.contener{
+    color: rgb(211, 149, 34);
+}
+.titulo{
+    color: orange;
+    font-size: 7;
+    font-family: cursive;
+    padding: 5%;
+}
+
+.col{
+    padding: 5%;
+}
